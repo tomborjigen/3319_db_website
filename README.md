@@ -9,4 +9,4 @@ This website connected to the MySQL database in the virtual machine provided by 
 
 UPDATE:
 
-Since the course has ended, the CS department has shut down the virtual machines to free resources. Consequentially, the website is no longer running,but all the PHP scripts, HTML, CSS and JavaScript files are here. 
+Since the course has ended, the CS department has shut down the virtual machines to maintain their resources. Consequentially, the website is no longer running, but all the PHP scripts, HTML, CSS and JavaScript files are here. 
